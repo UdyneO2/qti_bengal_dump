@@ -1,0 +1,11 @@
+
+<permissions>
+    <feature name="oppo.multibits.dimming.support" />
+    <feature name="oppo.eyeprotect.support" />
+    <feature name="oppo.display.screen.gloablehbm.support" />
+    <feature name="oppo.autobrightctl.animation.support" />
+    <feature name="oppo.brightness.mode.automatic" />
+    <feature name="oppo.dynamicfpsswitch.feature.support" />
+    <feature name="com.oppo.feature.screen.heteromorphism" />
+    <feature name="cabc.level.dynamic.enable" />
+</permissions>

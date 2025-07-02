@@ -1,0 +1,10 @@
+<oplus-config>
+    <!-- Guofu.Yang@ANDROID.INPUT, 2020/06/08, add end -->
+
+    <!-- LuoBinqiang@ANDROID.AMS, 2020/07/14, add for some process keep alive -->
+    <oplus-feature name="oplus.software.keep_alive" />
+    <!-- LuoBinqiang@ANDROID.AMS, 2020/07/14, add end -->
+    <!-- LuoBinqiang@ANDROID.AMS, 2020/07/14, add for some process keep alive ext -->
+    <oplus-feature name="oplus.software.keep_alive_ext" />
+    <!-- LuoBinqiang@ANDROID.AMS, 2020/07/14, add end -->
+</oplus-config>

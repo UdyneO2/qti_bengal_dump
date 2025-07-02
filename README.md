@@ -1,0 +1,20 @@
+## qssi-user 11 RKQ1.201217.002 1663163315605 release-keys
+- Manufacturer: qualcomm
+- Platform: bengal
+- Codename: bengal
+- Brand: qti
+- Flavor: qssi-user
+- Release Version: 11
+- Kernel Version: 4.19.152
+- Id: RKQ1.201217.002
+- Incremental: 1663163315605
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: qti/bengal/bengal:11/RKQ1.201217.002/1663163315605:user/release-keys
+- OTA version: 
+- Branch: qssi-user-11-RKQ1.201217.002-1663163315605-release-keys
+- Repo: qti_bengal_dump

@@ -1,0 +1,7 @@
+<!-- This file is auto-generated.  DO NOT MODIFY. -->
+<permissions>
+    <!-- Junhao.Liang@PSW.AD.FaceRecognition.1070880, 2018/06/19, Add for face -->
+    <feature name="oppo.face.closeeye.detect" />
+    <feature name="oppo.hardware.face.nopowerblock" />
+    <feature name="android.hardware.biometrics.face" />
+</permissions>
