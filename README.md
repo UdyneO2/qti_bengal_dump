@@ -1,8 +1,8 @@
 ## qssi-user 11 RKQ1.201217.002 1663163315605 release-keys
-- Manufacturer: qualcomm
+- Manufacturer: Realme
 - Platform: bengal
-- Codename: bengal
-- Brand: qti
+- Codename: RMX2195
+- Brand: C15 QCOM
 - Flavor: qssi-user
 - Release Version: 11
 - Kernel Version: 4.19.152
@@ -13,8 +13,8 @@
 - A/B Device: false
 - Treble Device: true
 - Locale: en-US
-- Screen Density: undefined
-- Fingerprint: qti/bengal/bengal:11/RKQ1.201217.002/1663163315605:user/release-keys
+- Screen Density: 320
+- Fingerprint: Realme/RMX2195/bengal:11/RKQ1.201217.002/1663163315605:user/release-keys
 - OTA version: 
 - Branch: qssi-user-11-RKQ1.201217.002-1663163315605-release-keys
-- Repo: qti_bengal_dump
+- Repo: realme_bengal_dump
