@@ -1,0 +1,6 @@
+<permissions>
+     <!-- yu.wu@RM.Camera, 2020/06/19, Add for ARunit support -->
+     <feature name="oppo.hardware.arunit.support" />
+     <!-- yu.wu@RM.Camera, 2020/06/19, Add for camera anti-shake support -->
+     <feature name="oppo.camera.antishake.support" />
+</permissions>

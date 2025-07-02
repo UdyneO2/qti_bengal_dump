@@ -1,0 +1,32 @@
+# build prop start
+ro.oplus.system.camera.name=com.oppo.camera
+ro.com.google.lens.oem_camera_package=com.oppo.camera
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.vendor.qti.va_odm.support=1
+ro.com.android.dataroaming=false
+persist.vendor.radio.custom_ecc=0
+ro.separate.soft=206BD
+ro.build.kernel.id=5.4.60
+ro.rom.featrue=allnet
+ro.vendor.product.oem=RMX2195
+ro.vendor.product.device.oem=RECE4244
+ro.commonsoft.ota=RECE4244
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.opporom=V11.1
+ro.build.version.realmeui=V2.0
+ro.oppo.market.name=realme C15 Qualcomm Edition
+ro.product.hw=FA218
+ro.build.display.id=RMX2195_11_C.01
+ro.build.display.full_id=RMX2195_11_C.01_220914
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+ro.com.google.clientidbase=android-oppo
+odm.dirac.path=/odm/etc/dirac
+gallery.image.sharpen.on=true
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=206BD
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
